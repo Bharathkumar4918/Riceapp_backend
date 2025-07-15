@@ -1,0 +1,33 @@
+{
+    "users":[                
+        {
+            "id":"user_id_1",
+            "name":"nani",
+            "email":"steve49@gmail.com",
+            "password":"pass123"
+        }
+    ],
+
+    "dealers":[
+        {
+            "dealer_id":"dealer_id_1",
+            "name":"nani",
+            "email":"nani@gmail.com",
+            "password":"pass1234",
+            "company_name":"apna_bazar",
+            "mobile":9546248558,
+            "isActive":true,
+            "payment":[]
+        }
+    ],
+
+    "products":[
+        {
+            "product_id":121,
+            "product_title":"Sonamasoori",
+            "price":120,
+            "quantity":25
+
+        }
+    ]
+}
