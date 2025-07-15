@@ -1,33 +1,31 @@
 {
-    "users":[                
+    "user":[
         {
-            "id":"user_id_1",
-            "name":"nani",
-            "email":"steve49@gmail.com",
-            "password":"pass123"
+            "id":"user-id-1",
+            "name": "friend",
+            "email":"friend@gmail.com",
+            "password":"password123"
         }
     ],
-
     "dealers":[
-        {
-            "dealer_id":"dealer_id_1",
-            "name":"nani",
-            "email":"nani@gmail.com",
-            "password":"pass1234",
-            "company_name":"apna_bazar",
-            "mobile":9546248558,
-            "isActive":true,
-            "payment":[]
-        }
+    {
+        "dealer_id":"dealer_id-1",
+        "name":"ramu",
+        "email":"ramu@gmail.com",
+        "password":"password123",
+        "cpmpanyname":"xyz",
+        "mobile":7997940693,
+        "isActive":"true",
+        "payment":[]
+    }
     ],
-
     "products":[
         {
-            "product_id":121,
-            "product_title":"Sonamasoori",
+            "prodid":123,
+            "prod_title":"sona masoor",
             "price":120,
-            "quantity":25
-
+            "quentity":25
         }
     ]
+    
 }
